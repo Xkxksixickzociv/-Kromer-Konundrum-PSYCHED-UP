@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "town",
+		"player1": "bf",
+		"player2": "neospam",
+		"player3": null,
+		"events": [
+			[
+				138857.142857143,
+				[
+					[
+						"Change Character",
+						"1",
+						"bigman"
+					]
+				]
+			],
+			[
+				165750,
+				[
+					[
+						"Change Character",
+						"1",
+						"neospam"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "[NEO]"
+	}
+}

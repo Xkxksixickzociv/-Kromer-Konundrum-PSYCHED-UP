@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spamtwoI.png"><SubTexture name="spamtwoI lose0000" x="0" y="0" width="126" height="123" frameX="-18" frameY="-18" frameWidth="150" frameHeight="150" />
+<SubTexture name="spamtwoI neutral0000" x="126" y="0" width="126" height="101" frameX="-18" frameY="-26" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

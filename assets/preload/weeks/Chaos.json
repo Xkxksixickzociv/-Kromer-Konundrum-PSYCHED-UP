@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"DevilsKnife",
+			"jevil",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "CHAOS",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "CHAOS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "Kromer",
+	"startUnlocked": true
+}

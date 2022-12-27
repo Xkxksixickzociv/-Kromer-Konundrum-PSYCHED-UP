@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spamton.png"><SubTexture name="idle0000" x="0" y="0" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="idle0001" x="728" y="0" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="idle0002" x="1456" y="0" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="idle0003" x="2184" y="0" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="idle0004" x="2912" y="0" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="idle0005" x="3640" y="0" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="left0000" x="0" y="749" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="left0001" x="728" y="749" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="left0002" x="1456" y="749" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="up0000" x="2184" y="749" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="up0001" x="2912" y="749" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="up0002" x="3640" y="749" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="down0000" x="0" y="1498" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="down0001" x="728" y="1498" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="down0002" x="1456" y="1498" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="right0000" x="2184" y="1498" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="right0001" x="2912" y="1498" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="right0002" x="3640" y="1498" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="laugh0000" x="0" y="2247" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="laugh0001" x="728" y="2247" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="laugh0002" x="1456" y="2247" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="laugh0003" x="2184" y="2247" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="laugh0004" x="2912" y="2247" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="laugh0005" x="3640" y="2247" width="728" height="749" frameX="0" frameY="0" frameWidth="728" frameHeight="749" />
+<SubTexture name="bigshot0000" x="0" y="2996" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0001" x="787" y="2996" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0002" x="1574" y="2996" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0003" x="2361" y="2996" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0004" x="3148" y="2996" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0005" x="3935" y="2996" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0006" x="0" y="3745" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0007" x="787" y="3745" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0008" x="1574" y="3745" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0009" x="2361" y="3745" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0010" x="3148" y="3745" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0011" x="3935" y="3745" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0012" x="0" y="4494" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0013" x="787" y="4494" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0014" x="1574" y="4494" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0015" x="2361" y="4494" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0016" x="3148" y="4494" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0017" x="3935" y="4494" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+<SubTexture name="bigshot0018" x="0" y="5243" width="787" height="749" frameX="0" frameY="0" frameWidth="787" frameHeight="749" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neofly.png"><SubTexture name="foryou0000" x="0" y="0" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0001" x="1600" y="0" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0002" x="3200" y="0" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0003" x="0" y="1728" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0004" x="1600" y="1728" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0005" x="3200" y="1728" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0006" x="0" y="3456" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0007" x="1600" y="3456" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0008" x="3200" y="3456" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0009" x="0" y="5184" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0010" x="1600" y="5184" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0011" x="3200" y="5184" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0012" x="0" y="6912" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0013" x="1600" y="6912" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+<SubTexture name="foryou0014" x="3200" y="6912" width="1600" height="1728" frameX="0" frameY="0" frameWidth="1600" frameHeight="1728" />
+</TextureAtlas>

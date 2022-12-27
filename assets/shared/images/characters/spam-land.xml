@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spam-land.png"><SubTexture name="spam-land0000" x="0" y="0" width="578" height="1021" frameX="0" frameY="0" frameWidth="578" frameHeight="1021" />
+<SubTexture name="spam-land0001" x="578" y="0" width="578" height="1021" frameX="0" frameY="0" frameWidth="578" frameHeight="1021" />
+<SubTexture name="spam-land0002" x="0" y="1021" width="578" height="1021" frameX="0" frameY="0" frameWidth="578" frameHeight="1021" />
+<SubTexture name="spam-land0003" x="578" y="1021" width="578" height="1021" frameX="0" frameY="0" frameWidth="578" frameHeight="1021" />
+<SubTexture name="spam-land0004" x="0" y="2042" width="578" height="1021" frameX="0" frameY="0" frameWidth="578" frameHeight="1021" />
+</TextureAtlas>

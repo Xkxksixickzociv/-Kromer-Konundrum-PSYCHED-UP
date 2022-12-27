@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shootbf.png"><SubTexture name="shootbf left0000" x="0" y="0" width="766" height="504" frameX="0" frameY="0" frameWidth="766" frameHeight="504" />
+<SubTexture name="shootbf left0001" x="766" y="0" width="766" height="504" frameX="0" frameY="0" frameWidth="766" frameHeight="504" />
+<SubTexture name="shootbf left0002" x="0" y="504" width="766" height="504" frameX="0" frameY="0" frameWidth="766" frameHeight="504" />
+<SubTexture name="shootbf right0000" x="766" y="504" width="766" height="504" frameX="0" frameY="0" frameWidth="766" frameHeight="504" />
+<SubTexture name="shootbf right0001" x="0" y="1008" width="766" height="504" frameX="0" frameY="0" frameWidth="766" frameHeight="504" />
+<SubTexture name="shootbf right0002" x="766" y="1008" width="766" height="504" frameX="0" frameY="0" frameWidth="766" frameHeight="504" />
+</TextureAtlas>

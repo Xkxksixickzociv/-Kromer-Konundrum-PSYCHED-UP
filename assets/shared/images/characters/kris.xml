@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kris.png"><SubTexture name="kris idle0000" x="0" y="0" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris idle0001" x="1138" y="0" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris idle0002" x="2276" y="0" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris idle0003" x="3414" y="0" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris idle0004" x="4552" y="0" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris idle0005" x="0" y="846" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris down0000" x="1138" y="846" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris down0001" x="2276" y="846" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris down0002" x="3414" y="846" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="down miss0000" x="4552" y="846" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="down miss0001" x="0" y="1692" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="down miss0002" x="1138" y="1692" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris up0000" x="2276" y="1692" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris up0001" x="3414" y="1692" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris up0002" x="4552" y="1692" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="up miss0000" x="0" y="2538" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="up miss0001" x="1138" y="2538" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="up miss0002" x="2276" y="2538" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris right0000" x="3414" y="2538" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris right0001" x="4552" y="2538" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris right0002" x="0" y="3384" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="right miss0000" x="1138" y="3384" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="right miss0001" x="2276" y="3384" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="right miss0002" x="3414" y="3384" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris left0000" x="4552" y="3384" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris left0001" x="0" y="4230" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="kris left0002" x="1138" y="4230" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="left miss0000" x="2276" y="4230" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="left miss0001" x="3414" y="4230" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+<SubTexture name="left miss0002" x="4552" y="4230" width="1138" height="846" frameX="0" frameY="0" frameWidth="1138" frameHeight="846" />
+</TextureAtlas>

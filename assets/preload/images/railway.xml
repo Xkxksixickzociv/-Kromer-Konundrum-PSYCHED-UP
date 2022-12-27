@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="railway.png"><SubTexture name="railway0000" x="0" y="0" width="4100" height="404" frameX="0" frameY="0" frameWidth="4100" frameHeight="404" />
+<SubTexture name="railway0001" x="4100" y="0" width="4100" height="404" frameX="0" frameY="0" frameWidth="4100" frameHeight="404" />
+<SubTexture name="railway0002" x="0" y="404" width="4100" height="404" frameX="0" frameY="0" frameWidth="4100" frameHeight="404" />
+<SubTexture name="railway0003" x="4100" y="404" width="4100" height="404" frameX="0" frameY="0" frameWidth="4100" frameHeight="404" />
+<SubTexture name="railway0004" x="0" y="808" width="4100" height="404" frameX="0" frameY="0" frameWidth="4100" frameHeight="404" />
+<SubTexture name="railway0005" x="4100" y="808" width="4100" height="404" frameX="0" frameY="0" frameWidth="4100" frameHeight="404" />
+<SubTexture name="railway0006" x="0" y="1212" width="4100" height="404" frameX="0" frameY="0" frameWidth="4100" frameHeight="404" />
+</TextureAtlas>

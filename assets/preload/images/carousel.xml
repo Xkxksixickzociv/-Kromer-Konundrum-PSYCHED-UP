@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="carousel.png"><SubTexture name="carousel0000" x="0" y="0" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0001" x="814" y="0" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0002" x="1628" y="0" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0003" x="2442" y="0" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0004" x="0" y="604" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0005" x="814" y="604" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0006" x="1628" y="604" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0007" x="2442" y="604" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0008" x="0" y="1208" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0009" x="814" y="1208" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0010" x="1628" y="1208" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0011" x="2442" y="1208" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0012" x="0" y="1812" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0013" x="814" y="1812" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0014" x="1628" y="1812" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0015" x="2442" y="1812" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0016" x="0" y="2416" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0017" x="814" y="2416" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0018" x="1628" y="2416" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0019" x="2442" y="2416" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0020" x="0" y="3020" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0021" x="814" y="3020" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+<SubTexture name="carousel0022" x="1628" y="3020" width="814" height="604" frameX="0" frameY="0" frameWidth="814" frameHeight="604" />
+</TextureAtlas>

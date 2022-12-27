@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="popups.png">
+	<SubTexture name="queenie0000" x="0" y="0" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="queenie0001" x="868" y="0" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="queenie0002" x="1736" y="0" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="queenie0003" x="2604" y="0" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="scnk0000" x="0" y="652" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="scnk0001" x="868" y="652" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="scnk0002" x="1736" y="652" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="scnk0003" x="2604" y="652" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="freekromer0000" x="0" y="1304" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="freekromer0001" x="868" y="1304" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="freekromer0002" x="1736" y="1304" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="freekromer0003" x="2604" y="1304" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="badtime0000" x="0" y="1956" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="badtime0001" x="868" y="1956" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="badtime0002" x="1736" y="1956" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="badtime0003" x="2604" y="1956" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="tobydog0000" x="0" y="2608" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="tobydog0001" x="868" y="2608" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="tobydog0002" x="1736" y="2608" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="tobydog0003" x="2604" y="2608" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="spamtong0000" x="0" y="3260" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="spamtong0001" x="868" y="3260" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="spamtong0002" x="1736" y="3260" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+	<SubTexture name="spamtong0003" x="2604" y="3260" width="868" height="652" frameX="0" frameY="0" frameWidth="868" frameHeight="652" />
+</TextureAtlas>

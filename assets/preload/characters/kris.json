@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				350,
+				330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kris idle"
+		},
+		{
+			"offsets": [
+				350,
+				330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kris left"
+		},
+		{
+			"offsets": [
+				350,
+				330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kris down"
+		},
+		{
+			"offsets": [
+				350,
+				330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kris up"
+		},
+		{
+			"offsets": [
+				350,
+				330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kris right"
+		},
+		{
+			"offsets": [
+				342,
+				335
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left miss"
+		},
+		{
+			"offsets": [
+				342,
+				335
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down miss"
+		},
+		{
+			"offsets": [
+				343,
+				336
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up miss"
+		},
+		{
+			"offsets": [
+				344,
+				335
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kris",
+	"position": [
+		-20,
+		350
+	],
+	"healthicon": "kris",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		175
+	],
+	"camera_position": [
+		440,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

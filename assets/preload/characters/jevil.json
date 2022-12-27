@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				80,
+				350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				80,
+				320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DUMMY CLOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				360
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				150,
+				360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				100
+			],
+			"anim": "anything",
+			"fps": 16,
+			"name": "anything",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				95
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "chaos",
+			"indices": [],
+			"name": "chaos"
+		},
+		{
+			"offsets": [
+				70,
+				350
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "dance"
+		},
+		{
+			"offsets": [
+				80,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "intro",
+			"loop": false,
+			"name": "intro"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jevil",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jevil",
+	"flip_x": false,
+	"healthbar_colors": [
+		114,
+		112,
+		197
+	],
+	"camera_position": [
+		-60,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

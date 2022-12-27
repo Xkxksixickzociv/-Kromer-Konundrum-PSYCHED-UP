@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-50
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-50
+			],
+			"anim": "bigshot",
+			"fps": 13,
+			"name": "bigshot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-50
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "laugh",
+			"loop": true,
+			"name": "laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spamton",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "spam",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		172,
+		197
+	],
+	"camera_position": [
+		0,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
